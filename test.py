@@ -10,4 +10,5 @@ new_test = 32
 github_variabel_for_testinh = 10
 github_variabel_for_testinh = 12
 local_git_change_to_push = 15
+local_git_change_to_push = 1
 
